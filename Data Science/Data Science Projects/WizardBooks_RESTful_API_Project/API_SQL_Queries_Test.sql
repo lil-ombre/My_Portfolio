@@ -1,7 +1,7 @@
 #######################################################
 # Adrian Luis-Martinez
-# Assignment 3: RESTful API Implementation
-# SQL Queries
+# RESTful API Implementation
+# SQL Queries to Test API
 #######################################################
 
 ### 1. Select query to retrieve all books from the inventory

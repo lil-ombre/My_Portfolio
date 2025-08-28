@@ -1,6 +1,6 @@
 /*
 Adrian Luis-Martinez
-Load Your Custom Database Assignment
+Load Your Custom Database Project
 QUERY SCRIPT
 */
 
