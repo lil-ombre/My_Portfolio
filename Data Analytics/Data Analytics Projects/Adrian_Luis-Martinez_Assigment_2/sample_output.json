@@ -1,0 +1,262 @@
+[
+    {
+        "visit_id": 0,
+        "patient_id": "686076410859b69cf68645f0",
+        "provider_id": "686076470859b69cf6864636",
+        "visit_date": "2024-03-26",
+        "symptom": [],
+        "diagnosis": [],
+        "lab": [],
+        "clinical_procedures": []
+    },
+    {
+        "visit_id": 1,
+        "patient_id": "686076410859b69cf68645f0",
+        "provider_id": "686076460859b69cf6864627",
+        "visit_date": "2024-03-27",
+        "symptom": [
+            {
+                "symptom": 462,
+                "note": "Sudden weakness on one side of the body"
+            }
+        ],
+        "diagnosis": [
+            {
+                "diagnosis_id": 91,
+                "name": "Psoriasis vulgaris",
+                "icd10_code": "L40.0"
+            },
+            {
+                "diagnosis_id": 104,
+                "name": "Psoriasis vulgaris",
+                "icd10_code": "L40.0"
+            },
+            {
+                "diagnosis_id": 142,
+                "name": "Migraine, unspecified, not intractable, without status migrainosus",
+                "icd10_code": "G43.909"
+            },
+            {
+                "diagnosis_id": 223,
+                "name": "Acute upper respiratory infection, unspecified",
+                "icd10_code": "J06.9"
+            },
+            {
+                "diagnosis_id": 339,
+                "name": "Pain in right knee",
+                "icd10_code": "M25.561"
+            },
+            {
+                "diagnosis_id": 386,
+                "name": "Acute upper respiratory infection, unspecified",
+                "icd10_code": "J06.9"
+            },
+            {
+                "diagnosis_id": 399,
+                "name": "Presbyopia",
+                "icd10_code": "H52.4"
+            },
+            {
+                "diagnosis_id": 418,
+                "name": "Cellulitis of left lower limb",
+                "icd10_code": "L03.116"
+            },
+            {
+                "diagnosis_id": 470,
+                "name": "Pain in right knee",
+                "icd10_code": "M25.561"
+            }
+        ],
+        "lab": [
+            {
+                "lab_id": 292,
+                "cpt_code": "84550",
+                "lab_name": "Urea nitrogen; quantitative"
+            }
+        ],
+        "clinical_procedures": [
+            {
+                "procedure_id": 49,
+                "idc10_code": "0JPT0PZ",
+                "proc_name": "Removal of Drainage Device from Trunk Subcutaneous Tissue",
+                "description": "Surgical removal of previously inserted drainage device."
+            },
+            {
+                "procedure_id": 59,
+                "idc10_code": "0WQF0ZZ",
+                "proc_name": "Repair Right Lower Leg Muscle, Open Approach",
+                "description": "Surgical repair of muscle in right lower leg using open surgery."
+            },
+            {
+                "procedure_id": 93,
+                "idc10_code": "0T160ZB",
+                "proc_name": "Bypass Stomach to Ileum, Open Approach",
+                "description": "Creating a new connection from the stomach to the ileum through open surgery."
+            },
+            {
+                "procedure_id": 289,
+                "idc10_code": "0WQF0ZZ",
+                "proc_name": "Repair Right Lower Leg Muscle, Open Approach",
+                "description": "Surgical repair of muscle in right lower leg using open surgery."
+            },
+            {
+                "procedure_id": 291,
+                "idc10_code": "0WQF0ZZ",
+                "proc_name": "Repair Right Lower Leg Muscle, Open Approach",
+                "description": "Surgical repair of muscle in right lower leg using open surgery."
+            },
+            {
+                "procedure_id": 426,
+                "idc10_code": "0HTV0ZZ",
+                "proc_name": "Resection of Thyroid Gland, Open Approach",
+                "description": "Complete surgical removal of the thyroid gland."
+            },
+            {
+                "procedure_id": 459,
+                "idc10_code": "0JPT0PZ",
+                "proc_name": "Removal of Drainage Device from Trunk Subcutaneous Tissue",
+                "description": "Surgical removal of previously inserted drainage device."
+            },
+            {
+                "procedure_id": 460,
+                "idc10_code": "0T160ZB",
+                "proc_name": "Bypass Stomach to Ileum, Open Approach",
+                "description": "Creating a new connection from the stomach to the ileum through open surgery."
+            },
+            {
+                "procedure_id": 472,
+                "idc10_code": "0HTV0ZZ",
+                "proc_name": "Resection of Thyroid Gland, Open Approach",
+                "description": "Complete surgical removal of the thyroid gland."
+            },
+            {
+                "procedure_id": 488,
+                "idc10_code": "0UDB7ZZ",
+                "proc_name": "Excision of Bladder, Via Natural or Artificial Opening",
+                "description": "Partial removal of the bladder via an internal orifice."
+            }
+        ]
+    },
+    {
+        "visit_id": 2,
+        "patient_id": "686076410859b69cf68645f0",
+        "provider_id": "686076480859b69cf6864640",
+        "visit_date": "2024-04-09",
+        "symptom": [
+            {
+                "symptom": 14,
+                "note": "Sudden onset of chest pain and dizziness"
+            },
+            {
+                "symptom": 59,
+                "note": "Dry, scaly patches on the skin"
+            },
+            {
+                "symptom": 305,
+                "note": "Fatigue and low energy levels throughout the day"
+            },
+            {
+                "symptom": 497,
+                "note": "Tingling and numbness in fingers and toes"
+            }
+        ],
+        "diagnosis": [
+            {
+                "diagnosis_id": 7,
+                "name": "Noninfective gastroenteritis and colitis, unspecified",
+                "icd10_code": "K52.9"
+            },
+            {
+                "diagnosis_id": 9,
+                "name": "Psoriasis vulgaris",
+                "icd10_code": "L40.0"
+            },
+            {
+                "diagnosis_id": 144,
+                "name": "Pain in right knee",
+                "icd10_code": "M25.561"
+            },
+            {
+                "diagnosis_id": 185,
+                "name": "Cellulitis of left lower limb",
+                "icd10_code": "L03.116"
+            },
+            {
+                "diagnosis_id": 218,
+                "name": "Viral infection, unspecified",
+                "icd10_code": "B34.9"
+            },
+            {
+                "diagnosis_id": 232,
+                "name": "Myalgia",
+                "icd10_code": "M79.1"
+            },
+            {
+                "diagnosis_id": 239,
+                "name": "Generalized anxiety disorder",
+                "icd10_code": "F41.1"
+            },
+            {
+                "diagnosis_id": 421,
+                "name": "Urinary tract infection, site not specified",
+                "icd10_code": "N39.0"
+            }
+        ],
+        "lab": [
+            {
+                "lab_id": 136,
+                "cpt_code": "82247",
+                "lab_name": "Bilirubin; total"
+            },
+            {
+                "lab_id": 254,
+                "cpt_code": "82247",
+                "lab_name": "Bilirubin; total"
+            }
+        ],
+        "clinical_procedures": [
+            {
+                "procedure_id": 24,
+                "idc10_code": "0JH80DZ",
+                "proc_name": "Insertion of Cardiac Lead into Chest Subcutaneous Tissue",
+                "description": "Placement of an electrical lead under the skin in the chest."
+            },
+            {
+                "procedure_id": 96,
+                "idc10_code": "0JH80DZ",
+                "proc_name": "Insertion of Cardiac Lead into Chest Subcutaneous Tissue",
+                "description": "Placement of an electrical lead under the skin in the chest."
+            },
+            {
+                "procedure_id": 210,
+                "idc10_code": "0T140ZZ",
+                "proc_name": "Resection of Stomach, Open Approach",
+                "description": "Complete removal of the stomach via open surgery."
+            },
+            {
+                "procedure_id": 218,
+                "idc10_code": "0T140ZZ",
+                "proc_name": "Resection of Stomach, Open Approach",
+                "description": "Complete removal of the stomach via open surgery."
+            },
+            {
+                "procedure_id": 230,
+                "idc10_code": "0FT44ZZ",
+                "proc_name": "Resection of Liver, Percutaneous Endoscopic Approach",
+                "description": "Complete removal of the liver lobe via percutaneous endoscopic method."
+            },
+            {
+                "procedure_id": 234,
+                "idc10_code": "0Y6J0Z0",
+                "proc_name": "Insertion of Internal Fixation Device into Left Femur",
+                "description": "Surgical placement of fixation device in the left thigh bone."
+            },
+            {
+                "procedure_id": 260,
+                "idc10_code": "0FT44ZZ",
+                "proc_name": "Resection of Liver, Percutaneous Endoscopic Approach",
+                "description": "Complete removal of the liver lobe via percutaneous endoscopic method."
+            }
+        ]
+    }
+]
